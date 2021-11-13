@@ -1,0 +1,23 @@
+body {
+  background-color: brown;
+}
+#heading-text {
+  color: rgb(42, 30, 210);
+}
+#heading-text2 {
+  color: green;
+}
+#heading-text3 {
+  color: yellow;
+}
+
+.heading_alignment {
+  text-align: right;
+}
+.firstP {
+  color: cyan;
+  font-weight: 900;
+}
+img {
+  width: 50%;
+}
